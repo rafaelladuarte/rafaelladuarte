@@ -9,7 +9,8 @@ Sobre min:
 - 📚 Graduanda em Ciências Econômicas na Universidade Federal de Uberlândia.
 - 🌱 Entusiasta em Machine Learning e Data Analytics.
 - 📐 Tutora para crianças e adolescentes nas disciplinas de matemática e física.
-- 🎨 Microempreendedora e artesã da marca Ella Darte
+- 🎨 Artesã e Microempreendedora da marca Ella Darte
+- 🥰 Apaixonada por Corrida de Rua e Xadrez
 
 Conhecimentos:
 
