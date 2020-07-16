@@ -1,8 +1,9 @@
 ### Rafaella Duarte 😃
 
-[![Badge](https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&style=for-the-badge&logo=LINKEDIN)](https://www.linkedin.com/in/rafaella-duarte-044276130/)
-[![Badge](https://img.shields.io/static/v1?label=&message=Email&color=red&style=for-the-badge&logo=GMAIL)](mailto:rafaella.d.d.carvalho@gmail.com)
-[![Badge](https://img.shields.io/static/v1?label=&message=Instagram&color=purple&style=for-the-badge&logo=INSTAGRAM)](https://www.instagram.com/ella_darte)
+[![Github Badge](https://img.shields.io/badge/-elladarte-inactive?style=flat-square&logo=Github&logoColor=white&link=https://github.com/elladarte/)](https://github.com/elladarte/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Rafaella_Duarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaella-duarte-044276130/)](https://www.linkedin.com/in/rafaella-duarte-044276130/)
+[![Gmail Badge](https://img.shields.io/badge/-rafaella.d.d.carvalho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaella.d.d.carvalho@gmail.com)](mailto:rafaella.d.d.carvalho@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@ella_darte-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ella_darte)](https://www.instagram.com/ella_darte)
 
 Sobre min:
 
