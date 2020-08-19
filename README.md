@@ -19,3 +19,6 @@ Conhecimentos:
 - Power BI
 - Banco de Dados Relacionais
 - Excel
+
+[![Generic badge](https://img.shields.io/badge/CERTIFICACOES-concluidas-green.svg)](https://github.com/elladarte/Certificados/blob/master/README.md)
+
