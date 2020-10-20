@@ -17,7 +17,8 @@ Conhecimentos:
 
 - Python
 - Power BI
-- Banco de Dados Relacionais(PostgreeSQL) e Não Relacional(MongoDB, ElasticSeacrh)
+- Banco de Dado Relacionail (PostgreSQL)
+- Banco de Dado Não Relacional (MongoDB, ElasticSeacrh)
 - Excel
 
 [![Generic badge](https://img.shields.io/badge/CERTIFICACOES-concluidas-green.svg)](https://github.com/elladarte/Certificados/blob/master/README.md)
