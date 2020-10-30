@@ -15,7 +15,7 @@ Sobre min:
 
 Conhecimentos:
 
-- Python
+- Python, JavaScript
 - Power BI
 - Banco de Dado Relacionail (PostgreSQL)
 - Banco de Dado Não Relacional (MongoDB, ElasticSeacrh)
