@@ -15,11 +15,10 @@ Sobre min:
 
 Conhecimentos:
 
-- Python, JavaScript
-- Power BI
-- Banco de Dado Relacionail (PostgreSQL)
-- Banco de Dado Não Relacional (MongoDB, ElasticSeacrh)
-- Excel
+- Python e suas principais bibliotecas para se trabalhar com dados
+- Banco de Dado Relacionail (PostgreSQL) e Não Relacional (MongoDB, ElasticSeacrh)
+- JavaScript e noções de desenvolvimento de aplicações Web
+- Power BI e Excel ferramentas de visualização de dados como criação de Dashboards
 
 [![Generic badge](https://img.shields.io/badge/CERTIFICACOES-concluidas-green.svg)](https://github.com/elladarte/Certificados/blob/master/README.md)
 
