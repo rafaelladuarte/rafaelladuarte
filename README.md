@@ -20,5 +20,5 @@ Conhecimentos:
 - JavaScript e noções de desenvolvimento de aplicações Web
 - Power BI e Excel ferramentas de visualização de dados como criação de Dashboards
 
-[![Generic badge](https://img.shields.io/badge/CERTIFICACOES-concluidas-green.svg)](https://github.com/elladarte/Certificados/blob/master/README.md)
+[![Generic badge](https://img.shields.io/badge/CERTIFICADOS-concluidas-green.svg)](https://github.com/elladarte/Certificados/blob/master/README.md)
 
