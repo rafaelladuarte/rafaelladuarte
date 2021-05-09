@@ -17,8 +17,9 @@ Conhecimentos:
 
 - Python e suas principais bibliotecas para se trabalhar com dados
 - Banco de Dado Relacional (PostgreSQL) e Não Relacional (MongoDB, ElasticSeacrh)
-- JavaScript e noções basicas de desenvolvimento de aplicações Web
-- Power BI e Excel ferramentas de visualização de dados como criação de Dashboards
+- Noções basicas em Streaming de Dados (RabbitMQ)
+- Noções basicas de desenvolvimento de aplicações Web (Javascript)
+- Ferramentas de visualização de dados (Power BI, DataStudio, Excel)
 
 [![Generic badge](https://img.shields.io/badge/CERTIFICADOS-concluidas-green.svg)](https://github.com/elladarte/Certificados/blob/master/README.md)
 
