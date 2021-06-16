@@ -8,7 +8,7 @@
 Sobre min:
 
 - 📚 Graduanda em Ciências Econômicas na Universidade Federal de Uberlândia.
-- 🌱 Entusiasta em Machine Learning e Data Analytics.
+- 🌱 Entusiasta em Data Infrastructure,Data Analytics e Machine Learning.
 - 📐 Tutora para crianças e adolescentes nas disciplinas de matemática e física.
 - 🎨 Artesã e Microempreendedora da marca Ella Darte
 - 🥰 Apaixonada por Corrida de Rua e Xadrez
@@ -18,7 +18,7 @@ Conhecimentos:
 - Python e suas principais bibliotecas para se trabalhar com dados
 - Banco de Dado Relacional (PostgreSQL) e Não Relacional (MongoDB, ElasticSeacrh)
 - Noções basicas em Streaming de Dados (RabbitMQ)
-- Noções basicas de desenvolvimento de aplicações Web (Javascript)
+- Noções basicas de desenvolvimento de aplicações Web (HTML, CSS e Javascript)
 - Ferramentas de visualização de dados (Power BI, DataStudio, Excel)
 
 [![Generic badge](https://img.shields.io/badge/CERTIFICADOS-concluidas-green.svg)](https://github.com/elladarte/Certificados/blob/master/README.md)
