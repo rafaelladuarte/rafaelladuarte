@@ -21,5 +21,5 @@ Conhecimentos:
 - Noções basicas de desenvolvimento de aplicações Web (HTML, CSS e Javascript)
 - Ferramentas de visualização de dados (Power BI, DataStudio, Excel)
 
-[![Generic badge](https://img.shields.io/badge/CERTIFICADOS-concluidas-green.svg)](https://github.com/elladarte/Certificados/blob/master/README.md)
+[![Generic badge](https://img.shields.io/badge/ROADMAP_ESTUDOS-andamento-yellow.svg)](https://github.com/elladarte/My_list_study)
 
