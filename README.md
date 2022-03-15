@@ -20,7 +20,6 @@ Conhecimentos:
 - Desenvolvimento e Manutenção de pipelines de ETL e ELT codificado em Python
 - Sistema de controle de versões (Git)
 - Streaming de Dados (RabbitMQ)
-
 - Noções básicas em desenvolvimento de APIs
 - Noções básicas em Infraestrutura como código (Docker, Kubernets, Ansible)
 - Noções básicas do Ecossistema Hadoop ( HDFS, Yarn, Hive, Sqoop, HBase)
