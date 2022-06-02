@@ -37,8 +37,3 @@ Skills Secundarias:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-	
-
-
-[![Generic badge](https://img.shields.io/badge/ROADMAP_ESTUDOS-andamento-yellow.svg)](https://github.com/elladarte/My_list_study)
-
