@@ -13,18 +13,32 @@ Sobre min:
 - 🎨 Artesã e Microempreendedora da marca Ella Darte
 - 🥰 Apaixonada por Corrida de Rua e Xadrez
 
-Conhecimentos:
+Skills Primarias:
 
-- Python e suas principais bibliotecas para se trabalhar com dados
-- Banco de Dado Relacional (PostgreSQL) e Não Relacional (MongoDB, ElasticSeacrh)
-- Desenvolvimento e Manutenção de pipelines de ETL e ELT codificado em Python
-- Sistema de controle de versões (Git)
-- Streaming de Dados (RabbitMQ)
-- Noções básicas em desenvolvimento de APIs
-- Noções básicas em Infraestrutura como código (Docker, Kubernets, Ansible)
-- Noções básicas do Ecossistema Hadoop ( HDFS, Yarn, Hive, Sqoop, HBase)
-- Noções básicas de desenvolvimento de aplicações Web (HTML, CSS e Javascript)
-- Ferramentas de visualização de dados (Power BI, DataStudio, Excel)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
+Skills Secundarias:
+
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+	
+
 
 [![Generic badge](https://img.shields.io/badge/ROADMAP_ESTUDOS-andamento-yellow.svg)](https://github.com/elladarte/My_list_study)
 
