@@ -9,7 +9,7 @@
 Sobre min:
 
 - 📚 Graduanda em Ciências Econômicas na Universidade Federal de Uberlândia.
-- 🌱 Entusiasta em Data Streaming, Data Pipelines e Data Infrastructure,Data Analytics e Machine Learning.
+- 🌱 Entusiasta em Big Data e apaixonada por processamento e infraestrutura de dados.
 - 📐 Tutora para crianças e adolescentes nas disciplinas de matemática e física.
 - 🎨 Artesã e Microempreendedora da marca Ella Darte
 - 🥰 Apaixonada por Corrida de Rua e Xadrez
@@ -23,7 +23,6 @@ Skills Primarias:
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 
 Skills Secundarias:
 
@@ -47,3 +46,5 @@ Interesses:
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+[Meu Curriculo](https://rafaelladuarte.github.io/CV_RafaellaDuarte.pdf)
