@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-elladarte-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/elladarte/)](https://github.com/elladarte/)
 [![LinkedIn Badge](https://img.shields.io/badge/-Rafaella_Duarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaella-duarte-044276130/)](https://www.linkedin.com/in/rafaella-duarte-044276130/)
 [![Gmail Badge](https://img.shields.io/badge/-rafaella.d.d.carvalho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaella.d.d.carvalho@gmail.com)](mailto:rafaella.d.d.carvalho@gmail.com)
-[![Internet_Badge](https://img.shields.io/badge/-web_site-ff6f9c?style=flat-square&logo=wordpress&logoColor=white&link=https://github.com/elladarte/)](https://elladarte.github.io/)
+[![Internet_Badge](https://img.shields.io/badge/-web_site-ff6f9c?style=flat-square&logo=wordpress&logoColor=white&link=https://rafaelladuarte.github.io)](https://rafaelladuarte.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/-@ella_darte-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ella_darte)](https://www.instagram.com/ella_darte)
 
 Sobre min:
