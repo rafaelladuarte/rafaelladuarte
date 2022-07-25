@@ -36,8 +36,8 @@ Skills Secundarias:
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="panda="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="flask" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="flask" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi"  width="40" height="40"/>
 </p>
@@ -56,7 +56,7 @@ Interesses:
 <p align="left"> 
 <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="hadoop"  width="40" height="40"/>
 <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="airflow" width="40" height="40"/>
-<img src="https://static.javatpoint.com/tutorial/latex/images/latex-tutorial.png" alt="spark" width="40" height="40"/>
+<img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" alt="spark" width="40" height="40"/>
 <img src="https://miro.medium.com/max/512/1*a7lhGN6zcbwDFAIi5YpObg.jpeg" alt="kafka" width="40" height="40"/>
 <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
