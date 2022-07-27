@@ -36,18 +36,21 @@ Skills Secundarias:
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="panda="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="flask" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="flask" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi"  width="40" height="40"/>
 </p>
 
+Skills Acadêmicas:
 <p align="left"> 
+<img src="https://imagensemoldes.com.br/wp-content/uploads/2020/09/%C3%8Dcone-Logo-Excel-PNG.png" alt="excel" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
 <img src="https://library.kissclipart.com/20180930/suq/kissclipart-stata-clipart-stata-shore-durometer-7ba7ebc0f567adee.jpg" alt="stata"  width="40" height="40"/>
-<img src="https://www.hearne.software/Images/Software-Icons/Software-Header-Icons/EViews-Square-v2.aspx?width=198&height=198" alt="eviews" width="40" height="40"/>
-<img src="https://static.javatpoint.com/tutorial/latex/images/latex-tutorial.png" alt="latex" width="40" height="40"/>
-<img src="https://pt.wizcase.com/wp-content/uploads/2020/02/Excel-Logo.jpg" alt="excel" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="qgis" width="40" height="40"/>
+<img src="https://www.hearne.software/Images/Software-Icons/Software-Header-Icons/EViews-Square-v2.aspx?width=198&height=198" alt="eviews" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" alt="latex" width="40" height="40"/>
 </p>
 
 
@@ -56,7 +59,7 @@ Interesses:
 <p align="left"> 
 <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="hadoop"  width="40" height="40"/>
 <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="airflow" width="40" height="40"/>
-<img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" alt="spark" width="40" height="40"/>
+<img src="http://web.cs.ucla.edu/~mtgarip/images/spark_logo.png" alt="spark" width="40" height="40"/>
 <img src="https://miro.medium.com/max/512/1*a7lhGN6zcbwDFAIi5YpObg.jpeg" alt="kafka" width="40" height="40"/>
 <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
