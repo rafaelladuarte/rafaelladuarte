@@ -12,8 +12,8 @@ Sobre min:
 - 🎨 Artesã e Microempreendedora da marca Ella Darte
 - 🥰 Apaixonada por Corrida de Rua e Xadrez
 
-[![](https://img.shields.io/badge/MEU_CURRICULO-blue?style=for-the-badge)](https://rafaelladuarte.github.io/CV_RafaellaDuarte.pdf)
-[![](https://img.shields.io/badge/MEU_SITE-red?style=for-the-badge)](https://rafaelladuarte.github.io/)
+[![](https://img.shields.io/badge/CURRICULO-blue?style=for-the-badge)](https://rafaelladuarte.github.io/CV_RafaellaDuarte.pdf)
+[![](https://img.shields.io/badge/WEB_SITE-red?style=for-the-badge)](https://rafaelladuarte.github.io/)
 
 
 | Skills Primarias |  Skills Secundarias |
