@@ -35,8 +35,8 @@ Interesses:
 
 <p align="left"> 
 <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="hadoop"  width="40" height="40"/>
-<img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="airflow" width="40" height="40"/>
-<img src="http://web.cs.ucla.edu/~mtgarip/images/spark_logo.png" alt="spark" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/rafaelladuarte/apache_airflow/main/airflow_transparent.png" alt="airflow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/rafaelladuarte/Big_Data_Engineer_Sematix/main/images-removebg-preview.png" alt="spark" width="40" height="40"/>
 <img src="https://miro.medium.com/max/512/1*a7lhGN6zcbwDFAIi5YpObg.jpeg" alt="kafka" width="40" height="40"/>
 <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
