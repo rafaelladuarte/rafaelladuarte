@@ -18,7 +18,7 @@ Sobre min:
 
 | Skills Primarias |  Skills Secundarias |
 | ------------------- | ------------------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/><img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="rabbitmq" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> <img src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" alt="elasticsearch" width="40" height="40"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"  width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"  width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi"  width="40" height="40"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/><img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="rabbitmq" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> <img src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" alt="elasticsearch" width="40" height="40"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> <img src="https://raw.githubusercontent.com/rafaelladuarte/apache_airflow/main/airflow_transparent.png" alt="airflow" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi"  width="40" height="40"/> |
 
 Skills Acadêmicas:
 <p align="left"> 
@@ -28,6 +28,7 @@ Skills Acadêmicas:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="qgis" width="40" height="40"/>
 <img src="https://www.hearne.software/Images/Software-Icons/Software-Header-Icons/EViews-Square-v2.aspx?width=198&height=198" alt="eviews" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" alt="latex" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
 </p>
 
 
@@ -35,12 +36,14 @@ Interesses:
 
 <p align="left"> 
 <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="hadoop"  width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/rafaelladuarte/apache_airflow/main/airflow_transparent.png" alt="airflow" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/rafaelladuarte/Big_Data_Engineer_Sematix/main/images/images-removebg-preview.png" alt="spark" width="40" height="40"/>
 <img src="https://miro.medium.com/max/512/1*a7lhGN6zcbwDFAIi5YpObg.jpeg" alt="kafka" width="40" height="40"/>
-<img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="aws" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" alt="scala"  width="40" height="40"/>
 </p>
 
 
