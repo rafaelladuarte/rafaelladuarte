@@ -13,7 +13,7 @@ Sobre min:
 - 🥰 Apaixonada por Corrida de Rua e Xadrez
 
 [![](https://img.shields.io/badge/CURRICULO-blue?style=for-the-badge)](https://rafaelladuarte.github.io/CV_RafaellaDuarte.pdf)
-[![](https://img.shields.io/badge/WEB_SITE-red?style=for-the-badge)](https://rafaelladuarte.github.io/)
+[![](https://img.shields.io/badge/WEB_SITE-red?style=for-the-badge)](https://rafaelladuarte-portfolio.vercel.app/)
 
 
 | Skills Primarias |  Skills Secundarias |
