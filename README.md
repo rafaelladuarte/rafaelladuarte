@@ -8,9 +8,7 @@ Sobre min:
 
 - 📚 Graduanda em Ciências Econômicas na Universidade Federal de Uberlândia.
 - 🌱 Entusiasta em Big Data e apaixonada por processamento e infraestrutura de dados.
-- 📐 Tutora para crianças e adolescentes nas disciplinas de matemática e física.
-- 🎨 Artesã e Microempreendedora da marca Ella Darte
-- 🥰 Apaixonada por Corrida de Rua e Xadrez
+- 🥰 Apaixonada por Observação de Aves, Livros de Fição Cientifica, Corrida de Rua e Xadrez
 
 [![](https://img.shields.io/badge/CURRICULO-blue?style=for-the-badge)](https://github.com/rafaelladuarte/rafaelladuarte.github.io/blob/main/CV_Out2024_RafaellaDuarte.pdf)
 [![](https://img.shields.io/badge/WEB_SITE-red?style=for-the-badge)](https://rafaelladuarte-portfolio.vercel.app/)
