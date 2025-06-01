@@ -6,12 +6,12 @@
 
 Sobre min:
 
-- 📚 Graduanda em Ciências Econômicas na Universidade Federal de Uberlândia.
+- 📚 Graduada em Ciências Econômicas na Universidade Federal de Uberlândia.
 - 🌱 Entusiasta em Big Data e apaixonada por processamento e infraestrutura de dados.
 - 🥰 Apaixonada por Observação de Aves, Livros de Fição Cientifica, Corrida de Rua e Xadrez
 
-[![](https://img.shields.io/badge/CURRICULO-blue?style=for-the-badge)](https://github.com/rafaelladuarte/rafaelladuarte.github.io/blob/main/CV_Out2024_RafaellaDuarte.pdf)
-[![](https://img.shields.io/badge/WEB_SITE-red?style=for-the-badge)](https://rafaelladuarte-portfolio.vercel.app/)
+[![](https://img.shields.io/badge/CURRICULO-blue?style=for-the-badge)](https://rafaelladuarte.github.io/CV_Jan2025_RafaellaDuarte.pdf)
+[![](https://img.shields.io/badge/WEB_SITE-red?style=for-the-badge)](https://rafaelladuarte.github.io/)
 
 
 | Skills Primarias |  Skills Secundarias |
@@ -30,7 +30,6 @@ Interesses:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" alt="scala"  width="40" height="40"/>
 </p>
-
 
 
 
