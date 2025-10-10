@@ -2,15 +2,14 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Rafaella_Duarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaella-duarte-044276130/)](https://www.linkedin.com/in/rafaella-duarte-044276130/)
 [![Gmail Badge](https://img.shields.io/badge/-rafaella.d.d.carvalho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaella.d.d.carvalho@gmail.com)](mailto:rafaella.d.d.carvalho@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@ella_darte-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ella_darte)](https://www.instagram.com/ella_darte)
 
-Sobre min:
+Sobre min
 
 - 📚 Graduada em Ciências Econômicas na Universidade Federal de Uberlândia.
 - 🌱 Entusiasta em Big Data e apaixonada por processamento e infraestrutura de dados.
 - 🥰 Apaixonada por Observação de Aves, Livros de Fição Cientifica, Corrida de Rua e Xadrez
 
-[![](https://img.shields.io/badge/CURRICULO-blue?style=for-the-badge)](https://rafaelladuarte.github.io/CV_Jan2025_RafaellaDuarte.pdf)
+[![](https://img.shields.io/badge/CURRICULO-blue?style=for-the-badge)](https://rafaelladuarte.github.io/CV_RafaellaDuarte.pdf)
 [![](https://img.shields.io/badge/WEB_SITE-red?style=for-the-badge)](https://rafaelladuarte.github.io/)
 
 
