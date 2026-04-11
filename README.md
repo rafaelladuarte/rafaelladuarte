@@ -1,16 +1,18 @@
 <h1 align="center">Rafaella Duarte</h1>
+
 <p align="center">
-  Engenheira de Dados · Curiosa por natureza
+  Engenheira de Dados · Pipelines de dados · Ingestão (APIs & Scraping) · Data Architecture
 </p>
+
 <p align="center">
   <a href="https://linkedin.com/in/rafaella-duarte-carvalho">
-    <img src="https://img.shields.io/badge/LinkedIn-Rafaella_Duarte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=1DA1F2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Rafaella_Duarte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rafaella.d.d.carvalho@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c14438&color=EA4335"/>
+    <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://rafaelladuarte.github.io">
-    <img src="https://img.shields.io/badge/Portfólio-6A0DAD?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=6A0DAD&color=9C27B0"/>
+    <img src="https://img.shields.io/badge/Portfólio-6A0DAD?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
@@ -18,46 +20,30 @@
 
 ### 🛠️ Stack
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="36"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="36"/>
-</p>
+| Categoria              | Tecnologias |
+|------------------------|------------|
+| **Core**               | Python · SQL · Airflow |
+| **Data Engineering**   | ETL/ELT · Arquitetura Medallion · Modelagem · APIs · Web Scraping |
+| **Data & Storage**     | PostgreSQL · SQL Server · MongoDB · Elasticsearch |
+| **Cloud**              | GCP (BigQuery, Cloud Storage, Cloud Functions) · AWS (S3, Athena) |
+| **Mensageria & BI**    | RabbitMQ · Power BI |
+| **IA aplicada**        | RAG · Embeddings · OCR · Integração com APIs de LLMs |
+| **Em desenvolvimento** | Spark (PySpark) · Kafka · dbt · Databricks |
 
 ---
 
-### 📊 Stats
+### 💡 Diferenciais
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelladuarte&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelladuarte&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+- Pipelines resilientes (retry, idempotência, tratamento de falhas e reprocessamento)  
+- Experiência com web scraping em produção  
+- Atuação ponta a ponta (ingestão → processamento → modelagem)  
 
 ---
 
 ### 👩‍💻 Sobre mim
 
-- 🔧 3+ anos construindo pipelines em produção - de web scraping e APIs até Data Warehouses em cloud
-- 🎓 Ciências Econômicas (UFU) - Pós-graduanda em Engenharia de Dados (PUC Minas)
-- 🐦 Observadora de aves - construindo uma base de catalogação de todas as aves do Brasil
-- 📖 *Androides Sonham com Ovelhas Elétricas?* é meu livro favorito e eu recomendo para todo mundo
+- 🔧 3+ anos com pipelines de dados em produção desde a ingestão via APIs e scraping até modelagem em Data Warehouses  
+- ⚙️ Foco em confiabilidade, escalabilidade e qualidade de dados  
+- 🎓 Ciências Econômicas (UFU) · Pós em Engenharia de Dados (PUC Minas)  
+- 🐦 Criando uma base estruturada para catalogação de aves do Brasil
 - ✏️ Ensino matemática para crianças nas horas vagas
-- 📓 Artesã de cadernos e restauradora de livros
-
-
-
